@@ -8,4 +8,4 @@ https://datasciencecapstone.org/competitions/14/mortgage-approvals-from-governme
 
 Best score: 0.7257
 
-Final rank: 28 (558 COMPETITORS)
+Final rank: 28 (total 558 competitors)
